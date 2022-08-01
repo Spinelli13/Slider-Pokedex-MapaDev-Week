@@ -26,7 +26,5 @@
         font-size: 18px;
     }
 
-    .cartao .informacoes .vida{
-        font-size: 14px;
-    }
+    .cartao .informacoes .vida{}
 }
